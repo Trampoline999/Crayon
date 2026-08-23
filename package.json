@@ -1,0 +1,27 @@
+{
+  "name": "crayon-theme",
+  "displayName": "Crayon",
+  "description": "Crayon Dark Theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "onkarchougule",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Trampoline999/Crayon"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crayon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vscode-dark-color-theme.json"
+      }
+    ]
+  }
+}
