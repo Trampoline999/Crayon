@@ -4,10 +4,10 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
     <img src="https://img.shields.io/visual-studio-marketplace/v/OnkarChougule99.crayon-theme?style=flat-square&label=Marketplace&color=007ACC&logo=visual-studio-code" alt="Visual Studio Marketplace Version" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
+  <a href="https://github.com/Trampoline999/Crayon">
     <img src="https://img.shields.io/visual-studio-marketplace/i/OnkarChougule99.crayon-theme?style=flat-square&color=23c1a0" alt="Visual Studio Marketplace Installs" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
+  <a href="https://github.com/Trampoline999/Crayon">
     <img src="https://img.shields.io/visual-studio-marketplace/r/OnkarChougule99.crayon-theme?style=flat-square&color=f4b840" alt="Visual Studio Marketplace Rating" />
   </a>
   <a href="https://github.com/Trampoline999/Crayon/releases">
