@@ -1,20 +1,21 @@
 # 🖍️ Crayon Theme
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/OnkarChougule99.crayon-theme?style=flat-square&label=Marketplace&color=007ACC&logo=visual-studio-code" alt="Visual Studio Marketplace Version" />
-  </a>
-  <a href="https://github.com/Trampoline999/Crayon">
-    <img src="https://img.shields.io/visual-studio-marketplace/i/OnkarChougule99.crayon-theme?style=flat-square&color=23c1a0" alt="Visual Studio Marketplace Installs" />
-  </a>
-  <a href="https://github.com/Trampoline999/Crayon">
-    <img src="https://img.shields.io/visual-studio-marketplace/r/OnkarChougule99.crayon-theme?style=flat-square&color=f4b840" alt="Visual Studio Marketplace Rating" />
-  </a>
   <a href="https://github.com/Trampoline999/Crayon/releases">
-    <img src="https://img.shields.io/github/v/release/Trampoline999/Crayon?style=flat-square&color=9b6bdf&logo=github&label=Release" alt="GitHub Release" />
+    <img src="https://img.shields.io/github/v/release/Trampoline999/Crayon?style=for-the-badge&logo=github&logoColor=white&color=00E5A3&labelColor=24292e" alt="GitHub Release" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/OnkarChougule99.crayon-theme?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=84d756&labelColor=24292e" alt="Visual Studio Marketplace Version" />
+  </a>
+  <br/>
+  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/i/OnkarChougule99.crayon-theme?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=ffda59&labelColor=24292e" alt="Visual Studio Marketplace Installs" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/r/OnkarChougule99.crayon-theme?style=for-the-badge&color=6bb5ff&labelColor=24292e" alt="Visual Studio Marketplace Rating" />
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" />
+    <img src="https://img.shields.io/badge/License-MIT-ff5f3d?style=for-the-badge&labelColor=24292e" alt="MIT License" />
   </a>
 </p>
 
