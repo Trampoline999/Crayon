@@ -370,6 +370,13 @@
 			}
 		},
 		{
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#9CDCFE",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"scope": "invalid",
 			"settings": {
 				"foreground": "#F44747"
