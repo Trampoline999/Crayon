@@ -30,11 +30,14 @@ Every token and UI element is individually calibrated to give you instant visual
 ### Java
 ![Java Preview](screenshot/java.png)
 
-### React
-![React Preview](screenshot/react.png)
-
 ### Python
 ![Python Preview](screenshot/python.png)
+
+### TypeScript
+![TypeScript Preview](screenshot/typescript.png)
+
+### React
+![React Preview](screenshot/react.png)
 
 ### C++
 ![C++ Preview](screenshot/c++.png)
@@ -47,8 +50,8 @@ For the best visual experience matching the screenshots, add the following confi
 
 ```json
 {
-  "editor.fontSize": 13.5,
-  "editor.lineHeight": 25,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 26,
   "editor.fontLigatures": true,
   "editor.fontFamily": "'MonoLisaCode', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace",
   "editor.fontWeight": "normal"
