@@ -1,18 +1,15 @@
 # 🖍️ Crayon Theme
 
 <p align="center">
-  <a href="https://github.com/Trampoline999/Crayon/releases">
-    <img src="https://img.shields.io/github/v/release/Trampoline999/Crayon?style=for-the-badge&logo=github&logoColor=white&color=00E5A3&labelColor=24292e" alt="GitHub Release" />
+  <a href="https://github.com/Trampoline999/Crayon">
+    <img src="https://img.shields.io/badge/Release-v0.0.3-00E5A3?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub Release" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/OnkarChougule99.crayon-theme?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=84d756&labelColor=24292e" alt="Visual Studio Marketplace Version" />
+    <img src="https://img.shields.io/badge/VS%20Code-%5E1.60.0-84d756?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=24292e" alt="VS Code Compatibility" />
   </a>
   <br/>
-  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/i/OnkarChougule99.crayon-theme?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=ffda59&labelColor=24292e" alt="Visual Studio Marketplace Installs" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/r/OnkarChougule99.crayon-theme?style=for-the-badge&color=6bb5ff&labelColor=24292e" alt="Visual Studio Marketplace Rating" />
+  <a href="https://github.com/Trampoline999/Crayon/stargazers">
+    <img src="https://img.shields.io/github/stars/Trampoline999/Crayon?style=for-the-badge&logo=github&logoColor=white&color=ffda59&labelColor=24292e" alt="GitHub Stars" />
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-ff5f3d?style=for-the-badge&labelColor=24292e" alt="MIT License" />
