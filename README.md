@@ -1,14 +1,30 @@
 # 🖍️ Crayon Theme
 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/OnkarChougule99.crayon-theme?style=flat-square&label=Marketplace&color=007ACC&logo=visual-studio-code" alt="Visual Studio Marketplace Version" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/i/OnkarChougule99.crayon-theme?style=flat-square&color=23c1a0" alt="Visual Studio Marketplace Installs" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=OnkarChougule99.crayon-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/r/OnkarChougule99.crayon-theme?style=flat-square&color=f4b840" alt="Visual Studio Marketplace Rating" />
+  </a>
+  <a href="https://github.com/Trampoline999/Crayon/releases">
+    <img src="https://img.shields.io/github/v/release/Trampoline999/Crayon?style=flat-square&color=9b6bdf&logo=github&label=Release" alt="GitHub Release" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" />
+  </a>
+</p>
+
 > A modern, vibrant, and eye-comforting dark color theme crafted for developers who value clarity, aesthetic elegance, and long hours of fatigue-free coding.
 
 ---
 
 ## 🌟 About Crayon
 
-**Crayon** brings a thoughtfully balanced color spectrum to Visual Studio Code. Inspired by the rich, expressive tones of premium artist crayons, it pairs deep, glare-free dark backgrounds with lively, distinct pastel and neon accents. 
-
-Every token and UI element is individually calibrated to give you instant visual distinction between types, functions, variables, keywords, and operators—allowing you to read and navigate complex codebases with minimal cognitive load.
+**Crayon** brings a vibrant, eye-comforting dark theme to Visual Studio Code. Inspired by the rich tones of artist crayons, it pairs a glare-free dark canvas with lively pastel and neon accents—carefully calibrated for effortless readability and fatigue-free coding.
 
 ---
 
