@@ -4,6 +4,7 @@
   "description": "Crayon Dark Theme for Visual Studio Code",
   "version": "0.0.1",
   "publisher": "onkarchougule",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Trampoline999/Crayon"
