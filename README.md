@@ -26,6 +26,17 @@
 
 ---
 
+## 🎨 Theme Variants
+
+Crayon comes in two distinct flavor variants to match your visual taste:
+
+| Variant | Description |
+| :--- | :--- |
+| **Crayon** | The classic signature dark slate backdrop paired with vivid, hand-calibrated crayon syntax colors. |
+| **Crayon Andromeda** | Signature Crayon syntax highlighting paired with Andromeda's popular sleek, deep navy editor and workbench palette (`#23262E`). |
+
+---
+
 ## ✨ Features & Highlights
 
 - 🎨 **Artistic & Cohesive Palette**: Vivid shades of mint greens, soft lilacs, electric cyans, warm corals, and buttery yellows that look stunning together.
@@ -79,7 +90,7 @@ For the best visual experience matching the screenshots, add the following confi
 ### Method 1: Local Development / Testing
 1. Press `F5` in VS Code to launch an Extension Development Host window with this theme loaded.
 2. Open the Command Palette (`Cmd+Shift+P` on macOS or `Ctrl+Shift+P` on Windows/Linux).
-3. Type **Preferences: Color Theme** and select **Crayon**.
+3. Type **Preferences: Color Theme** and select **Crayon** or **Crayon Andromeda**.
 
 ### Method 2: Install Locally in VS Code
 Copy or symlink this folder to your VS Code extensions directory:
@@ -90,7 +101,7 @@ Copy or symlink this folder to your VS Code extensions directory:
 # Example on macOS:
 cp -r "/Users/onkarchougule/Desktop/Dark Theme" ~/.vscode/extensions/crayon-theme
 ```
-Restart VS Code, then select **Crayon** from your Color Themes list.
+Restart VS Code, then select **Crayon** or **Crayon Andromeda** from your Color Themes list.
 
 ### Method 3: Package as VSIX
 If you have `@vscode/vsce` installed:
