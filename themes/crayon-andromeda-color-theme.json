@@ -6,7 +6,7 @@
 	"semanticTokenColors": {
 		"variable.readonly": "#D8DEE9",
 		"comment": {
-			"foreground": "#8B949E",
+			"foreground": "#A0A1A7CC",
 			"fontStyle": "italic"
 		},
 		"function": "#76C5A4",
@@ -262,7 +262,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#51C7DA",
+				"foreground": "#d7d7d7",
 				"fontStyle": "italic"
 			}
 		},
@@ -371,7 +371,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#51C7DA"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
@@ -454,7 +454,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#51C7DA"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#51C7DA"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
@@ -623,7 +623,7 @@
 				"constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#51C7DA"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
@@ -640,7 +640,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#51C7DA"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
@@ -725,7 +725,7 @@
 				"string.comment"
 			],
 			"settings": {
-				"foreground": "#8B949E",
+				"foreground": "#A0A1A7CC",
 				"fontStyle": "italic"
 			}
 		},
@@ -1087,7 +1087,7 @@
 				"brackethighlighter.quote"
 			],
 			"settings": {
-				"foreground": "#8B949E"
+				"foreground": "#A0A1A7CC"
 			}
 		},
 		{
