@@ -4,7 +4,7 @@
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"variable.readonly": "#79C0FF",
+		"variable.readonly": "#D8DEE9",
 		"comment": {
 			"foreground": "#8B949E",
 			"fontStyle": "italic"
@@ -372,7 +372,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#9CDCFE",
+				"foreground": "#D7D7D7",
 				"fontStyle": "italic"
 			}
 		},
@@ -858,7 +858,7 @@
 				"entity"
 			],
 			"settings": {
-				"foreground": "#79C0FF"
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -1316,7 +1316,7 @@
 				"variable.other.property"
 			],
 			"settings": {
-				"foreground": "#C9D1D9"
+				"foreground": "#79C0FF"
 			}
 		},
 		{
