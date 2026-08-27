@@ -2,7 +2,7 @@
   "name": "crayon-theme",
   "displayName": "Crayon",
   "description": "Crayon Dark Theme for Visual Studio Code",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "OnkarChougule99",
   "icon": "logo.png",
   "repository": {
@@ -21,12 +21,12 @@
       {
         "label": "Crayon",
         "uiTheme": "vs-dark",
-        "path": "./themes/vscode-dark-color-theme.json"
+        "path": "./themes/crayon-theme.json"
       },
       {
-        "label": "Crayon Andromeda",
+        "label": "Crayon Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/crayon-andromeda-color-theme.json"
+        "path": "./themes/crayon-soft-theme.json"
       }
     ]
   }
