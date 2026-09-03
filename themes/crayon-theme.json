@@ -372,7 +372,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#d7d7d7",
+				"foreground": "#9CDCFE",
 				"fontStyle": "italic"
 			}
 		},
